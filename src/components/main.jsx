@@ -13,7 +13,7 @@ const Home = () => {
           />
           <div className="card-img-overlay d-flex align-items-center text-black">
             <div className="container">
-              <h5 className="card-title fs-1 text fw-lighter">Ranex Template</h5>
+              <h5 className="card-title fs-1 text fw-lighter">Ranex</h5>
               <p className="card-text fs-5 d-none d-sm-block ">
                 🏩website based on reactjs
                 <br />
