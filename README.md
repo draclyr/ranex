@@ -1,4 +1,4 @@
-<h2>ArenShop Template</h2>
+<h2>Ranex Template</h2>
 <p>🏩store website based on ReactJS, Html, Css and With all coding principles and special features.</p>
 
 ## Getting Started
